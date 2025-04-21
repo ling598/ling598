@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4091fcd8-9f0d-431c-914e-a8146765e72e" style="width: 80%; height: auto;" />
+  <img src="https://my-cool-gif-bucket.s3.us-east-2.amazonaws.com/github_profile.gif" style="width: 80%; height: auto;" />
 </p>
 <p align="center">
-  🎨 Artwork Credit: <a href="https://www.pixilart.com/art/mystical-sunset-sr2a608ca9014aws3?ft=featured&ft_id=">pineapple-Man54</a>
+  🎨 Artwork Credit: <a href="https://www.pixilart.com/art/tree-tops-3bc5544fe17e46f?ft=topic&ft_id=2">Marcie</a>
 </p>
 
 <h2 align="center"> Hi there!</h3>
-<p align="center">Hi! I’m a curious coder who loves creating interactive, accessible, and engaging projects!  ✨💻🌟</p>
+<p align="center">Hi, I'm Linda ! I'm still trying to discover more about the world of programming. Every day is a chance to learn something new, and I'm excited to keep growing and building projects along the way. ✨💻🌟</p>
 
 
 <br>
